@@ -3,4 +3,8 @@ public class Main {
         System.out.println("Keerthana added code");
         System.out.println("Github is difficult");
     }
+
+    public static int add(int a, int b){
+        return a+b;
+    }
 }
